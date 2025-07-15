@@ -1,5 +1,7 @@
 Accademy Oracle corso
 
+# Programma corso accademy
+
 ORACLE e Piattaforma Tecnologica Il presente modulo illustra l’architettura di un database Oracle, principali tool di gestione e opzioni di installazione e configurazione. Contenuti: • Definizione dei ruoli sulle attività database; • Attività principali nel ruolo di product specialist; • Attività principali nel ruolo di helpdesk specializzato; • Introduzione Architettura Oracle; • Introduzione ai componenti architetturali Oracle; • Illustrazione delle relazioni tra struttura logica e fisica; • Istanza Oracle – Definizione; • Parametri di inizializzazione; • Avvio e arresto di un'istanza Oracle; • Comunicazione tra istanze Oracle (DB link); • Creazione ed amministrazione dei tablespace; • Creazione ed amministrazione degli account DB; • Concessione e revoca dei privilegi; • Creazione ed amministrazione dei ruoli; • Creazione ed amministrazione dei profili; • Uso di SQL Loader.
 
 Introduzione a Linux In questo modulo verrà illustrato il SO Linux, principali comandi, strumenti per l’amministrazione e per l’automazione di processi e per la gestione di applicazioni.
